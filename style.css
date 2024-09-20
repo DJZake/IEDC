@@ -1,3 +1,4 @@
+
 h1{
     color: #198743;
     font-size: 50px;
@@ -111,6 +112,26 @@ header{
     font-size: 500%;
 }
 
+
+.aimh{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 500%;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15%;
+}
+
+
+
+
+
 @media screen and (max-width: 600px){
     .iedch1{
         font-size: 500%;
@@ -144,5 +165,12 @@ header{
 
     .aboutb{
         margin-left: 30%;
+    }
+
+    .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 8%;
     }
 }
