@@ -2,6 +2,9 @@
     width: 10%;
 }
 
+body{
+    background-color: black !important;
+}
 
 
 .excomh{
@@ -10,6 +13,7 @@
     font-weight: 600;
     font-style: normal;
     font-size: 500%;
+    color: #1ea034;
 }
 
 .excom{
