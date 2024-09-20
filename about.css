@@ -11,8 +11,17 @@
     color: white;
 }
 
+.std{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    border-radius: 10%;
+    margin-right: 5%;
+}
+
 .aboutp{
-    text-align: center;
+    padding: 5%;
+    padding-left: 10%;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -20,11 +29,35 @@
     color: white;
 }
 
+.cem{
+    width: 55%;
+    margin-left: 23%;
+    border-radius: 15%;
+}
+
 .qt{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 500%;
+    color: rgb(40, 179, 58);
+    text-align: center;
+}
+
+.vish{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 500%;
+    color: rgb(40, 179, 58);
+    text-align: center;
+}
+
+.visp{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250%;
     color: rgb(40, 179, 58);
     text-align: center;
 }
