@@ -96,6 +96,10 @@ header{
     background-color: black;
 }
 
+.aboutb{
+    margin-left: 42%;
+}
+
 .excomh{
     text-align: center;
     font-family: "Bebas Neue", sans-serif;
@@ -115,5 +119,27 @@ header{
     .logo{
         width: 25%;
     }
+
+    .iedch1{
+        font-size: 700%;
+    }
+    .iedch2{
+        font-size: 250%;
+    }
     
+    .aboutp{
+        font-size: 150%;
+    }
+
+    .abouth{
+        font-size: 400%;
+    }
+
+    .bill{
+        font-size: 200%;
+    }
+
+    .aboutb{
+        margin-left: 30%;
+    }
 }
