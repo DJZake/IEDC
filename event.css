@@ -1,0 +1,44 @@
+.logo{
+    width: 8%;
+}
+
+.event{
+    text-align: center;
+    color: #0da519;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.year{
+    padding: 3%;
+    font-size: 2em;
+    font-weight: 600;
+    color: #0da519;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 600;
+    color: #0da519;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.r{
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
+
+@media screen and (max-width: 600px){
+
+    .logo{
+        width: 25%;
+    }
+}
